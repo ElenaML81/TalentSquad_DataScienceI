@@ -1,4 +1,6 @@
-# SpaceX Rocket Eruption Prediction Model - TalentSquad_DataScience I 🚀
+# SpaceX Rocket Eruption Prediction Model 🚀
+
+## TalentSquad_DataScience I 
 
 The objective of this project is to develop a predictive model that is able to determine the type of status that a SpaceX Rocket will have based on the vibrations measured by different sensors. 
 
