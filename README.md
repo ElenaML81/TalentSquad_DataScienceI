@@ -1,4 +1,4 @@
-# SpaceX Rocket Eruption Prediction Model 🚀
+# SpaceX Rocket Eruption Predictive Model 🚀
 
 ## TalentSquad_DataScience I 
 
