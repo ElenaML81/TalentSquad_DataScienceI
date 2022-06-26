@@ -26,7 +26,7 @@ Dataset variables:
 
 ## Results 
 
-The results of the f1_score of the different models have been validated using Cross Validation and taking into account the mean and standard deviation.  A result close to 78% has been achieved.  A table with the results has been created: 
+The results of the f1_score of the different models have been validated using **Cross Validation** and taking into account the mean and standard deviation.  A result close to 78% has been achieved.  A table with the results has been created: 
 
 ![results](https://user-images.githubusercontent.com/97047277/175811421-086a3f1f-54e5-4065-8294-26a19424de8e.png)
 
