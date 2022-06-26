@@ -1,4 +1,4 @@
-# TalentSquad_DataScienceI
+# TalentSquad_DataScience I
 Predictive model on the status of SpaceX rockets 🚀
 
 # SpaceX Rocket Eruption Prediction Model 
